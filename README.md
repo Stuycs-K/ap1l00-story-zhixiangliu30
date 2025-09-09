@@ -17,7 +17,7 @@ The goal is to learn the edit/add/commit/push workflow and realize it isn't that
 
 # Submit summer assignment HelloWorld here!
 
-3. Copy your "HelloWorld.java" from the summer assignment to the local repository. You should have it in the cloud/email/flash-drive, so you have to save it into the correct directory (the repo folder),
+3. [oops: The summer assignment called the file Hello.java, please rename it to HelloWorld.java, and change the class name to HelloWOrld] Copy your "HelloWorld.java" from the summer assignment to the local repository. You should have it in the cloud/email/flash-drive, so you have to save it into the correct directory (the repo folder),
    (you can drag/drop, use the cp command, or google how to achieve your task)
 6. Use the command "git status" to see what happens with new files, you will notice it says that HelloWorld.java is not being tracked.
 7. Add/commit/Push the HelloWorld file. This case is an example of when a simple commit message is sufficient. 
